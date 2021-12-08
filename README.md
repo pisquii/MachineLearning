@@ -8,7 +8,7 @@ It means massive data load that hospitals and laboratories have to manage and pr
 
   Our project targets to develop a classification model with binary problem to accurately detect malaria disease present in images of thin blood smears.
 To do so we have used a total of 27,558 cell images with equal instances of parasitized and uninfected cells. 
-We created a **Convolutional Neural Network using Tensorflow and Keras** libraries which are able to classify whether the cells are infected or not. 
+We created a **Convolutional Neural Network using Tensorflow and Keras** which are able to classify whether the cells are infected or not. 
 
   The goal of using technology and machine learning here is to make the microscopy examination process faster, more consistent, and less dependent on human expertise thus helping world detecting and fighting malaria in urgent situations.
 

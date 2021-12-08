@@ -13,4 +13,4 @@ We created a **Convolutional Neural Network using Tensorflow and Keras** librari
   The goal of using technology and machine learning here is to make the microscopy examination process faster, more consistent, and less dependent on human expertise thus helping world detecting and fighting malaria in urgent situations.
 
 # How to Access Source Data
-https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets --> click on the link and download cell_images.zip from there to access segmented cells
+https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets --> click on the link and download **cell_images.zip** from there to access segmented cells

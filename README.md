@@ -1,5 +1,5 @@
 # MachineLearning
-Group project
+Malaria Cell Detection
 
   **2 million people die every year due to Malaria disease**. Moreover, it is estimated that there are **300-500 million new cases annually**.
 It means massive data load that hospitals and laboratories have to manage and process, while some regions that are suffering from the disease are often lacking well-trained personnel that can perform high-quality microscopy examination and that’s due to high costs to train such experts. Apart from that, the whole examination process can be also very time-consuming and error-prone and that’s our problem that we want to solve.
